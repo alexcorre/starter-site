@@ -1,6 +1,6 @@
-# demo-starter-site
+# starter-site
 
-> A simple static site starter kit with require.js and jquery ready to go
+> A simple static site starter kit powered by require.js
 
 ## Requirements
 
